@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from "next/image";
-import liuhaocun from'/Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/Liuhaocunfanpage.jpeg'
+import liuhaocun from'../public/assets/Liuhaocunfanpage.jpeg'
 import {FireOutlined} from "@ant-design/icons";
 import Link from "next/link";
 

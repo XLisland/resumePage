@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from "next/image";
-import Work1 from '/Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/Marlboro.png'
-import Work2 from '/Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/Liuhaocunfanpage.jpeg'
+import Work1 from '../public/assets/Marlboro.png'
+import Work2 from '../public/assets/Liuhaocunfanpage.jpeg'
 import Link from "next/link";
 
 const Projects = () => {

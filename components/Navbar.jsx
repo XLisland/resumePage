@@ -1,9 +1,9 @@
 import React,{useState,useEffect} from 'react';
 import Image from "next/image";
 import Link from "next/link";
-import Ham from'/Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/hamburgMenu.png'
-import Panda from '/Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/panda (1).png'
-import Cancel from '/Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/Cancel.png'
+import Ham from'../public/assets/hamburgMenu.png'
+import Panda from '../public/assets/panda (1).png'
+import Cancel from '../public/assets/Cancel.png'
 import {GithubOutlined, MailOutlined, WeiboOutlined, ZhihuOutlined} from "@ant-design/icons";
 import {useRouter} from "next/router";
 
