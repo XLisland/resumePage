@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React, { useState } from 'react';
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
-import ContactImg from '/../Users/chengyangxian/WebstormProjects/thefourth/thefourthone/public/assets/contact_us2.jpeg'
+import ContactImg from '../public/assets/contact_us2.jpeg'
 import {
     GithubOutlined,
     MailOutlined,
